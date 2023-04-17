@@ -1,4 +1,4 @@
-package com.lisijietech.algorithm.module.binarytree;
+package com.lisijietech.algorithm.module.base.datastructure.binarytree;
 
 import java.util.ArrayList;
 import java.util.HashSet;

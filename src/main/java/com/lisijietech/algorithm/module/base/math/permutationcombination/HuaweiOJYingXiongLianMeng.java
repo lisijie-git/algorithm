@@ -1,4 +1,4 @@
-package com.lisijietech.algorithm.module.permutationcombination;
+package com.lisijietech.algorithm.module.base.math.permutationcombination;
 
 import java.io.BufferedReader;
 import java.io.IOException;

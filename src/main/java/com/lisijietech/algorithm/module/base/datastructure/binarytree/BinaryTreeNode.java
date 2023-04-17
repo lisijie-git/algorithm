@@ -1,4 +1,4 @@
-package com.lisijietech.algorithm.module.binarytree;
+package com.lisijietech.algorithm.module.base.datastructure.binarytree;
 
 /**
  * 二叉树节点。
