@@ -1,4 +1,4 @@
-package com.lisijietech.algorithm.module.problems;
+package com.lisijietech.algorithm.module.problem;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
